@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "dgSpecHash": "ytiDqT7a2Dk=",
+  "success": true,
+  "projectFilePath": "/Users/oguzhanyikilmaz/Documents/LicensePlateRecognitionSystem/LicensePlateRecognitionSystem/LicensePlateRecognitionSystem.csproj",
+  "expectedPackageFiles": [
+    "/Users/oguzhanyikilmaz/.nuget/packages/avalonia/11.2.2/avalonia.11.2.2.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/avalonia.angle.windows.natives/2.1.22045.20230930/avalonia.angle.windows.natives.2.1.22045.20230930.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/avalonia.buildservices/0.0.29/avalonia.buildservices.0.0.29.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/avalonia.desktop/11.2.2/avalonia.desktop.11.2.2.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/avalonia.freedesktop/11.2.2/avalonia.freedesktop.11.2.2.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/avalonia.native/11.2.2/avalonia.native.11.2.2.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/avalonia.remote.protocol/11.2.2/avalonia.remote.protocol.11.2.2.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/avalonia.skia/11.2.2/avalonia.skia.11.2.2.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/avalonia.themes.fluent/11.2.2/avalonia.themes.fluent.11.2.2.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/avalonia.win32/11.2.2/avalonia.win32.11.2.2.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/avalonia.x11/11.2.2/avalonia.x11.11.2.2.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/harfbuzzsharp/7.3.0.3/harfbuzzsharp.7.3.0.3.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/harfbuzzsharp.nativeassets.linux/7.3.0.3/harfbuzzsharp.nativeassets.linux.7.3.0.3.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/harfbuzzsharp.nativeassets.macos/7.3.0.3/harfbuzzsharp.nativeassets.macos.7.3.0.3.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/harfbuzzsharp.nativeassets.webassembly/7.3.0.3/harfbuzzsharp.nativeassets.webassembly.7.3.0.3.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/harfbuzzsharp.nativeassets.win32/7.3.0.3/harfbuzzsharp.nativeassets.win32.7.3.0.3.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/microcom.runtime/0.11.0/microcom.runtime.0.11.0.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/microsoft.win32.systemevents/8.0.0/microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/opencvsharp4/4.10.0.20241107/opencvsharp4.4.10.0.20241107.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/opencvsharp4.extensions/4.10.0.20241107/opencvsharp4.extensions.4.10.0.20241107.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/skiasharp/2.88.9/skiasharp.2.88.9.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/skiasharp.nativeassets.linux/2.88.9/skiasharp.nativeassets.linux.2.88.9.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/skiasharp.nativeassets.macos/2.88.9/skiasharp.nativeassets.macos.2.88.9.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/skiasharp.nativeassets.webassembly/2.88.9/skiasharp.nativeassets.webassembly.2.88.9.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/skiasharp.nativeassets.win32/2.88.9/skiasharp.nativeassets.win32.2.88.9.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/system.drawing.common/8.0.11/system.drawing.common.8.0.11.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/tesseract/5.2.0/tesseract.5.2.0.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/tmds.dbus.protocol/0.20.0/tmds.dbus.protocol.0.20.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "LicensePlateRecognitionSystem depends on OpenCvSharp4 (>= 4.10.0.20241008) but OpenCvSharp4 4.10.0.20241008 was not found. OpenCvSharp4 4.10.0.20241107 was resolved instead.",
+      "projectPath": "/Users/oguzhanyikilmaz/Documents/LicensePlateRecognitionSystem/LicensePlateRecognitionSystem/LicensePlateRecognitionSystem.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/oguzhanyikilmaz/Documents/LicensePlateRecognitionSystem/LicensePlateRecognitionSystem/LicensePlateRecognitionSystem.csproj",
+      "libraryId": "OpenCvSharp4",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "LicensePlateRecognitionSystem depends on OpenCvSharp4.Extensions (>= 4.10.0.20241008) but OpenCvSharp4.Extensions 4.10.0.20241008 was not found. OpenCvSharp4.Extensions 4.10.0.20241107 was resolved instead.",
+      "projectPath": "/Users/oguzhanyikilmaz/Documents/LicensePlateRecognitionSystem/LicensePlateRecognitionSystem/LicensePlateRecognitionSystem.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/oguzhanyikilmaz/Documents/LicensePlateRecognitionSystem/LicensePlateRecognitionSystem/LicensePlateRecognitionSystem.csproj",
+      "libraryId": "OpenCvSharp4.Extensions",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

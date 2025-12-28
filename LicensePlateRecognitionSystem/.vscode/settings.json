@@ -1,0 +1,11 @@
+{
+    "dotnet.defaultSolution": "LicensePlateRecognitionSystem.csproj",
+    "files.exclude": {
+        "**/bin": true,
+        "**/obj": true
+    },
+    "terminal.integrated.env.osx": {
+        "DYLD_LIBRARY_PATH": "/opt/homebrew/lib:${env:DYLD_LIBRARY_PATH}"
+    },
+    "editor.formatOnSave": true
+}
