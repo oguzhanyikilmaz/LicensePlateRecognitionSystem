@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ytiDqT7a2Dk=",
+  "dgSpecHash": "I8wmBmoBwWA=",
   "success": true,
   "projectFilePath": "/Users/oguzhanyikilmaz/Documents/LicensePlateRecognitionSystem/LicensePlateRecognitionSystem/LicensePlateRecognitionSystem.csproj",
   "expectedPackageFiles": [
@@ -30,33 +30,12 @@
     "/Users/oguzhanyikilmaz/.nuget/packages/skiasharp.nativeassets.webassembly/2.88.9/skiasharp.nativeassets.webassembly.2.88.9.nupkg.sha512",
     "/Users/oguzhanyikilmaz/.nuget/packages/skiasharp.nativeassets.win32/2.88.9/skiasharp.nativeassets.win32.2.88.9.nupkg.sha512",
     "/Users/oguzhanyikilmaz/.nuget/packages/system.drawing.common/8.0.11/system.drawing.common.8.0.11.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
+    "/Users/oguzhanyikilmaz/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/Users/oguzhanyikilmaz/.nuget/packages/tesseract/5.2.0/tesseract.5.2.0.nupkg.sha512",
     "/Users/oguzhanyikilmaz/.nuget/packages/tmds.dbus.protocol/0.20.0/tmds.dbus.protocol.0.20.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "message": "LicensePlateRecognitionSystem depends on OpenCvSharp4 (>= 4.10.0.20241008) but OpenCvSharp4 4.10.0.20241008 was not found. OpenCvSharp4 4.10.0.20241107 was resolved instead.",
-      "projectPath": "/Users/oguzhanyikilmaz/Documents/LicensePlateRecognitionSystem/LicensePlateRecognitionSystem/LicensePlateRecognitionSystem.csproj",
-      "warningLevel": 1,
-      "filePath": "/Users/oguzhanyikilmaz/Documents/LicensePlateRecognitionSystem/LicensePlateRecognitionSystem/LicensePlateRecognitionSystem.csproj",
-      "libraryId": "OpenCvSharp4",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "message": "LicensePlateRecognitionSystem depends on OpenCvSharp4.Extensions (>= 4.10.0.20241008) but OpenCvSharp4.Extensions 4.10.0.20241008 was not found. OpenCvSharp4.Extensions 4.10.0.20241107 was resolved instead.",
-      "projectPath": "/Users/oguzhanyikilmaz/Documents/LicensePlateRecognitionSystem/LicensePlateRecognitionSystem/LicensePlateRecognitionSystem.csproj",
-      "warningLevel": 1,
-      "filePath": "/Users/oguzhanyikilmaz/Documents/LicensePlateRecognitionSystem/LicensePlateRecognitionSystem/LicensePlateRecognitionSystem.csproj",
-      "libraryId": "OpenCvSharp4.Extensions",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    }
-  ]
+  "logs": []
 }
